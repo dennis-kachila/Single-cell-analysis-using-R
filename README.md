@@ -11,25 +11,6 @@ Install the Seurat package if not already installed:
 
 ```r
 install.packages("Seurat")
-
-
-
-Collecting workspace informationHere is a suggested README.md content based on the script:
-
-```md
-# Single-Cell RNA Sequencing Analysis with Seurat
-
-This project processes single-cell RNA sequencing data using the Seurat package in R. The analysis includes data preprocessing, quality control, and merging of datasets from two samples.
-
-## Requirements
-
-- R (version 4.0 or higher)
-- Seurat package
-
-Install the Seurat package if not already installed:
-
-```r
-install.packages("Seurat")
 ```
 
 ## Data
